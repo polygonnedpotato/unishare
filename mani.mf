@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: elburg.unishare.jar
+Name: elburg/unishare
+Package-Title: UniShare
+Package-Version: 0.0.0
+Package-Vendor: elburg
+Specification-Title: UniShare
+Specification-Version: 0.0.0
+Specification-Vendor: elburg
+Implementation-Title: elburg.unishare
+Implementation-Version: v0m0r0
+Implementation-Vendor: elburg
